@@ -19,7 +19,7 @@ export default function HomePage() {
               Five programs, one quiet purpose.
             </h1>
             <p className="mt-8 text-lg sm:text-xl leading-relaxed max-w-2xl">
-              The Almas and A. Qadir Foundation supports five welfare programs on the outskirts of Rawalpindi:
+              The Almas and Abdul Qadir Foundation supports five welfare programs on the outskirts of Rawalpindi:
               a free school, vocational training, a clinic, daily meals and rations, and an exceptional hardship fund.
               All of it operates as <em className="font-display italic" style={{ color: "var(--foundation-secondary)" }}>sadaq-e-jaria</em> in
               memory of Almas and Air Vice Marshal Abdul Qadir.
@@ -124,7 +124,7 @@ export default function HomePage() {
           </div>
           <div className="flex justify-center">
             <Postcard src="/img/landscape-rural.jpg" alt="The surrounding landscape outside Rawalpindi"
-                      width={460} height={320} tilt="left" caption="The neighborhood the school serves" />
+                      width={460} height={320} tilt="left" caption="The Qalam School, Gulistan Colony, Rawalpindi" />
           </div>
         </div>
       </section>
@@ -138,7 +138,7 @@ export default function HomePage() {
           <p className="text-lg opacity-90 mb-8">
             About 88% of the Foundation&rsquo;s annual spend goes directly to the five programs.
             The rest covers audited operations.{" "}
-            <Link href="/financials" className="underline hover:opacity-70">See the 2024 financials &rarr;</Link>
+            <Link href="/financials" className="underline hover:opacity-70">See the 2025 financials &rarr;</Link>
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Link href="/donate"

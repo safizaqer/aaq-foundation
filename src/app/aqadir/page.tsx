@@ -24,7 +24,7 @@ export default function FoundersPage() {
             <p>
               A. Qadir joined the Royal Indian Air Force in 1944 and flew Spitfires on the Burma Front in
               the Second World War. After the partition of India, he became one of the pioneers of the Pakistan
-              Air Force, eventually rising to second-in-command of the service.
+              Air Force, eventually rising to second-in-command.
             </p>
             <p>
               He served as Commandant of the Air War College in Karachi (formerly the PAF Staff College), and later

@@ -33,7 +33,7 @@ export default function AboutPage() {
         <SectionHeading eyebrow="How" title="One campus, five programs" />
         <p>
           Everything happens from the same modest campus: <strong>The Qalam School</strong> (founded 2010, the founding
-          project), the <strong>Kamel Arif Vocational Program</strong> (sewing, embroidery, carpentry), the{" "}
+          project), the <strong>Qalam Vocational Wing</strong> (sewing, embroidery, carpentry), the{" "}
           <strong>AAQ Health Program</strong> (clinic, full-time physician, pharmacy), the{" "}
           <strong>AAQ Food &amp; Ration Program</strong> (daily meals, monthly flour rations, Ramadan rations), and
           the <strong>AAQ Uplift Program</strong> (rickshaws, fruit stalls, sewing setups, housing for families

@@ -4,15 +4,15 @@ import { PageHeader } from "@/components/page-header";
 import { Postcard } from "@/components/postcard";
 import { SectionHeading } from "@/components/section-heading";
 
-export const metadata = { title: "Kamel Arif Vocational Program" };
+export const metadata = { title: "Qalam Vocational Wing" };
 
 export default function VocationalPage() {
   return (
     <>
       <PageHeader
         eyebrow="A program of the Foundation"
-        title="The Kamel Arif Vocational Program"
-        intro="Sewing, embroidery, handicraft, and carpentry training in a workshop on the same campus as the school. Named for Kamel Arif, a quiet patron of the Foundation&rsquo;s early years."
+        title="The Qalam Vocational Wing"
+        intro="Sewing, embroidery, handicraft, and carpentry training in a workshop on the same campus as the school."
       />
 
       <div className="mx-auto max-w-3xl px-6 pb-12 prose-foundation">
@@ -43,7 +43,7 @@ export default function VocationalPage() {
 
         <SectionHeading eyebrow="See also" title="More programs" />
         <p>
-          The vocational program is one of five.{" "}
+          The Qalam Vocational Wing is one of five programs.{" "}
           <Link href="/programs" className="underline hover:opacity-70" style={{ color: "var(--foundation-secondary)" }}>
             Read about the other four &rarr;
           </Link>

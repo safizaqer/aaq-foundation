@@ -33,10 +33,10 @@ export default function ProgramsPage() {
               <p className="leading-relaxed mb-5">{p.short}</p>
               <div className="flex items-center gap-4 text-xs flex-wrap">
                 <span className="uppercase tracking-[0.18em]" style={{ color: "var(--foundation-muted-fg)" }}>
-                  2024 spend
+                  2025 spend
                 </span>
                 <span className="tabular font-medium" style={{ color: "var(--foundation-primary)" }}>
-                  PKR {p.pkr2024}
+                  PKR {p.pkr2025}
                 </span>
                 {p.external && (
                   <a href={p.external} target="_blank" rel="noopener"

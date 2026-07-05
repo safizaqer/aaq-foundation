@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     template: "%s \u2014 AAQ Foundation",
   },
   description:
-    "The Almas and A. Qadir Foundation supports five welfare programs in Rawalpindi, Pakistan \u2014 The Qalam School, Kamel Arif Vocational Program, AAQ Health, AAQ Food & Ration, and AAQ Uplift. Sadaq-e-jaria in memory of Almas and Air Vice Marshal Abdul Qadir.",
+    "The Almas and A. Qadir Foundation supports five welfare programs in Rawalpindi, Pakistan \u2014 The Qalam School, Qalam Vocational Wing, AAQ Health, AAQ Food & Ration, and AAQ Uplift. Sadaq-e-jaria in memory of Almas and Air Vice Marshal Abdul Qadir.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

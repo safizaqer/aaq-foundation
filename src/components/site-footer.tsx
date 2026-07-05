@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { CONTACT, QALAM_URL, FOUNDATION_LONG } from "@/lib/site-data";
 
 export function SiteFooter() {
@@ -9,6 +10,13 @@ export function SiteFooter() {
     >
       <div className="mx-auto max-w-6xl px-6 py-12 grid md:grid-cols-4 gap-8 text-sm">
         <div>
+          <Image
+            src="/img/aaq-logo.svg"
+            alt="AAQ Foundation logo"
+            width={64}
+            height={64}
+            className="mb-4"
+          />
           <div className="font-display text-xl mb-2" style={{ color: "#F5F1E8" }}>AAQ Foundation</div>
           <p className="opacity-80 leading-relaxed">{FOUNDATION_LONG}. Operating five welfare programs in Rawalpindi, Pakistan.</p>
         </div>
@@ -17,7 +25,7 @@ export function SiteFooter() {
           <ul className="space-y-2">
             <li><Link href="/about"      className="hover:opacity-70">About</Link></li>
             <li><Link href="/programs"   className="hover:opacity-70">Programs</Link></li>
-            <li><Link href="/founders"   className="hover:opacity-70">Founders</Link></li>
+            <li><Link href="/aqadir"   className="hover:opacity-70">A. Qadir</Link></li>
             <li><Link href="/board"      className="hover:opacity-70">Board</Link></li>
             <li><Link href="/financials" className="hover:opacity-70">Financials</Link></li>
             <li><a href={QALAM_URL} target="_blank" rel="noopener" className="hover:opacity-70">The Qalam School &rarr;</a></li>
