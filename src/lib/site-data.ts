@@ -1,5 +1,5 @@
 // AAQ Foundation \u2014 single source of truth for shared content.
-export const QALAM_URL = "https://safizaq-6bf4-42007.nebula.me";
+export const QALAM_URL = "https://qalamschool.com";
 
 export const FOUNDATION_NAME = "AAQ Foundation";
 export const FOUNDATION_LONG = "Almas and A. Qadir Foundation";
