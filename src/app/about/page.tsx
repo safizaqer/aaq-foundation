@@ -10,8 +10,14 @@ export default function AboutPage() {
       <PageHeader
         eyebrow="About the Foundation"
         title="A quiet foundation, a long memory."
-        intro="The Almas and A. Qadir Foundation was established in 2011 by the children of Almas and Air Vice Marshal Abdul Qadir. It exists for one reason: to continue, in their name, the kind of practical generosity that shaped them."
+        intro="The Almas and A. Qadir Foundation was established in 2025 to continue the work the children of Almas and Air Vice Marshal Abdul Qadir started under the AAQ Trust established in 2011. The Foundation exists for one reason: to continue, in their name, the kind of practical generosity that shaped them."
       />
+
+      <div className="mx-auto max-w-3xl px-6 -mt-6 pb-4">
+        <p className="text-sm" style={{ color: "var(--foundation-muted-fg)" }}>
+          A company set up under section 42 of the Companies Act, 2017
+        </p>
+      </div>
 
       <div className="mx-auto max-w-3xl px-6 pb-16 prose-foundation">
         <SectionHeading eyebrow="Why" title="Sadaq-e-jaria" />
@@ -40,8 +46,9 @@ export default function AboutPage() {
           in crisis).
         </p>
         <p>
-          The Foundation is registered as a charitable trust in Pakistan. The work is small enough to know every
-          family it touches, and disciplined enough to publish an audited financial statement every year.
+          The Foundation is a nonprofit Section 42 company registered under the Securities and Exchange Commission
+          of Pakistan (SECP) via the Companies Act, 2017. The work is small enough to know every family it touches,
+          and disciplined enough to publish an audited financial statement every year.
         </p>
 
         <SectionHeading eyebrow="Who" title="Family and friends" />

@@ -111,7 +111,7 @@ export default function HomePage() {
             <SectionHeading eyebrow="Rawalpindi" title="A school, a clinic, a community." />
             <p className="mb-4">
               All five programs operate from the same modest campus on the outskirts of Rawalpindi: a free
-              school of about 320 children, a vocational workshop, a clinic with a full-time physician,
+              school of about 220 children, a vocational workshop, a clinic with a full-time physician,
               a kitchen serving daily meals, and an outreach office that distributes monthly rations.
             </p>
             <p>

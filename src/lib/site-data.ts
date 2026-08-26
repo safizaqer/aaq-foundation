@@ -18,7 +18,7 @@ export const PROGRAMS = [
   {
     slug: "qalam-school",
     name: "The Qalam School",
-    short: "A free school for ~320 children on the outskirts of Rawalpindi, founded July 2010. Education, daily meals, uniforms, healthcare \u2014 all at no cost to families.",
+    short: "A free school for ~220 children on the outskirts of Rawalpindi, founded July 2010. Education, daily meals, uniforms, healthcare \u2014 all at no cost to families.",
     image: "/img/prog-qalam.jpg",
     pkr2025: "19,962,903",
     external: QALAM_URL,
@@ -48,7 +48,7 @@ export const PROGRAMS = [
   {
     slug: "aaq-food-ration",
     name: "AAQ Food & Ration Program",
-    short: "Daily lunch for ~320 students and staff; a monthly flour ration to 200+ families in the surrounding community; Ramadan rations of dates, rice, oil, and sugar.",
+    short: "Daily lunch for ~220 students and staff; a monthly flour ration to 200+ families in the surrounding community; Ramadan rations of dates, rice, oil, and sugar.",
     image: "/img/prog-food.jpg",
     pkr2025: "7,126,948",
     external: null,
