@@ -43,12 +43,6 @@ export default function AboutPage() {
           The Foundation is registered as a charitable trust in Pakistan. The work is small enough to know every
           family it touches, and disciplined enough to publish an audited financial statement every year.
         </p>
-        <p>
-          US donations are channelled through <strong>Friends of Qalam School, Inc.</strong>, a 501(c)(3) nonprofit
-          organization in the United States (Tax ID <span className="tabular">45-4910908</span>). The two entities work
-          in coordination: the Foundation operates the programs on the ground in Rawalpindi; Friends of Qalam School
-          channels US tax-deductible donations to support them.
-        </p>
 
         <SectionHeading eyebrow="Who" title="Family and friends" />
         <p>
