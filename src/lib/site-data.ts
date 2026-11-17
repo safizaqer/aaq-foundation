@@ -100,7 +100,7 @@ export const DONATE_PK = {
   branch: "Chaklala Scheme 3, Rawalpindi",
   account_number: "0807 0100 704005",
   iban: "PK97 MEZN 0008 0700 7040 05",
-  sponsorship: "Rs. 3,000 / month per student",
+  sponsorship: "Rs. 5,000 / month per student",
   contact: "0314 4289674",
 };
 

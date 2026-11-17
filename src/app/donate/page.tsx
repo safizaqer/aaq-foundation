@@ -11,7 +11,7 @@ export default function DonatePage() {
       <PageHeader
         eyebrow="How to give"
         title="Donate."
-        intro="The Foundation accepts donations from within Pakistan by bank transfer, and from overseas through The Qalam School&rsquo;s sponsorship programme. Rs. 3,000 a month, or USD 30 a month, sponsors one child."
+        intro="The Foundation accepts donations from within Pakistan by bank transfer, and from overseas through The Qalam School&rsquo;s sponsorship programme. Rs. 5,000 a month, or USD 30 a month, sponsors one child."
       />
 
       <div className="mx-auto max-w-4xl px-6 pb-20">
