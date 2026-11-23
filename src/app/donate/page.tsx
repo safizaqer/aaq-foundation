@@ -11,7 +11,7 @@ export default function DonatePage() {
       <PageHeader
         eyebrow="How to give"
         title="Donate."
-        intro="The Foundation accepts donations from within Pakistan by bank transfer, and from overseas through The Qalam School&rsquo;s sponsorship programme. Rs. 5,000 a month, or USD 30 a month, sponsors one child."
+        intro="The Foundation accepts donations from within Pakistan by bank transfer, and from overseas through The Qalam School&rsquo;s sponsorship programme. Rs. 5,000 a month, or USD 35 a month, sponsors one child."
       />
 
       <div className="mx-auto max-w-4xl px-6 pb-20">
@@ -53,8 +53,8 @@ export default function DonatePage() {
             <p className="mb-5 leading-relaxed">
               US donations are channelled through <strong>Friends of Qalam School, Inc.</strong>, a 501(c)(3) nonprofit
               organization (Tax ID <span className="tabular font-medium">45-4910908</span>). 100% of donations support
-              the school and its programs &mdash; all US donations are fully tax-deductible. USD 30 a month
-              (USD 360 a year) sponsors one child&rsquo;s education, meals, and healthcare for a year.
+              the school and its programs &mdash; all US donations are fully tax-deductible. USD 35 a month
+              (USD 420 a year) sponsors one child&rsquo;s education, meals, and healthcare for a year.
             </p>
             <div className="flex flex-wrap items-center gap-4 text-sm">
               <div className="tabular">
