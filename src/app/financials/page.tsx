@@ -143,8 +143,7 @@ export default function FinancialsPage() {
 
         <p className="text-xs mt-10" style={{ color: "var(--foundation-muted-fg)" }}>
           All figures in Pakistani Rupees. USD conversion is approximate, at PKR 279.5 / USD. The AAQ Foundation is a
-          charitable trust registered in Pakistan. US donations are channelled through Friends of Qalam School, Inc.,
-          a 501(c)(3) nonprofit organization (Tax ID 45-4910908).
+          charitable trust registered in Pakistan.
         </p>
       </div>
     </>
